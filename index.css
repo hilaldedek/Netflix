@@ -1,0 +1,105 @@
+body{
+	background-image:url(./img/background_image.png) ;
+}
+.small img{
+	width: 200px;
+	height: auto;
+}
+.deneme{
+	background-color: aqua;
+}
+.big{
+	margin: 10px 450px;
+	color: white;
+}
+.small img{
+	margin: 0px 110px;
+}
+.small p{
+	color: white;
+	font-size: 18px;
+	text-align: center;
+}
+.type select{
+	width: 200px;
+	height: 40px;
+}
+.type{
+	margin: 0px 25px;
+	font-size: 17px;
+}
+.form{
+	background-color: rgba(0, 0, 0, 0.582);
+	margin: 0px 25px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.up label{
+    margin: 0px 25px;
+	font-size: 17px;
+} 
+.up input{
+	text-align: center;
+	width: 300px;
+	height: 50px;
+	margin:0 25px;
+}
+.movietype{
+	margin: 0px 25px;
+	font-size: 17px;
+}
+.gender{
+	margin: 0px 25px;
+	font-size: 17px;
+}
+.comment{
+	margin:0px 25px;
+	font-size: 17px;
+}
+.comment textarea{
+	width: 300px;
+	height: 150px;
+}
+.button{
+	margin: 10px 130px ;
+	margin-bottom: 20px;
+}
+.button button{
+	border-radius: 25px;
+	border: 2px solid red;
+	background-color: red;
+	width: 100px;
+	height: 40px;
+	text-align:center;
+	color: white;
+}
+.button a{
+	text-decoration: none;
+	font-size: 17px;
+}
+.button a:visited{
+	color: white;
+}
+.comment textarea{
+	font-family:Arial, Helvetica, sans-serif;
+}
+.hilal button{
+	border-radius: 25px;
+	/* border: 2px solid red; */
+	background-color: black;
+	width: 100px;
+	height: 40px;
+	text-align:center;
+	color: white;
+	float: right;
+}
+.hilal a:visited{
+	color: white;
+}
+.hilal a{
+	text-decoration: none;
+	font-size: 17px;
+}
+.hilal button:hover{
+	background-color: red;
+	color: black;
+}
